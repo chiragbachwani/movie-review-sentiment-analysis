@@ -1,0 +1,24 @@
+# Movie Review Sentiment Analysis Project
+
+## Overview
+
+This project aims to perform sentiment analysis on movie reviews using machine learning techniques. The provided code includes data cleaning, model training, and evaluation steps to analyze and predict sentiments from the given dataset.
+
+## Dataset
+
+The dataset used for this project can be found (https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews). Please download and place the CSV file in the project directory.
+
+## Project Structure
+
+- **`data/`:** Directory to store the dataset.
+- **`notebooks/`:** Jupyter notebooks for exploratory data analysis and code development.
+- **`src/`:** Python scripts containing the main code for data cleaning, model training, and evaluation.
+- **`README.md`:** Project overview and instructions.
+
+## Instructions
+
+1. Download the dataset from the provided link and place it in the `data/` directory.
+2. Open and run the Jupyter notebooks in the `notebooks/` directory for exploratory data analysis and code development.
+3. Execute the Python scripts in the `src/` directory for data cleaning, model training, and evaluation.
+
+
